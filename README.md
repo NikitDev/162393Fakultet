@@ -1,1 +1,2 @@
-# 162393Fakultet
+# 162393
+Przedmiot fakultatywny
